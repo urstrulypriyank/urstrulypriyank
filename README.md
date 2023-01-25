@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **0priyankrai@gmail.com**
 
-- ⚡ Fun fact **I love programmers memes**
+- ⚡ Fun fact **I love memes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
