@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Pyhton ,MERN**
 
-- 📫 How to reach me **0priyankrai@gmail.com**
+- 📫 How to reach me **0priyankrai@gmail.com** **https://priyankrai.live**
 
 - ⚡ Fun fact **I love memes**
 
