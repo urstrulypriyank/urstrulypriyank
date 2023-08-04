@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyank Rai</h1>
 <h3 align="center">A passionate Full Stack Web Devloper</h3>
 
-- 🔭 I’m currently working on **News Blog Application**
+- 🔭 I’m currently working on **MERN stack**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **CI/CD pipeline deployment**
+- 🤝 I’m looking for help with **API performance optimization**
 
-- 💬 Ask me about **Pyhton ,MERN**
+- 💬 Ask me about **JavaScript, React, Tailwindcss, TanStackQuery**
 
 - 📫 How to reach me **0priyankrai@gmail.com** **https://priyankrai.live**
 
